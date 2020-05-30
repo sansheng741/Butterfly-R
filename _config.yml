@@ -3,18 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Radium·Stardust
+title: Radium-bit #网站名
 subtitle: ''
 description: ''
 keywords:
 author: Radium-bit
-language: zh-CN
+language: zh-CN  #语言，默认中文
 timezone: ''
-email: radium_official@163.com
+email: radium_official@163.com  #你的邮箱
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://radium-bit.gtihub.io
+url: http://radium-bit.gtihub.io  #你网站的链接
 root: /
 permalink: :category/:title/
 permalink_defaults:
@@ -99,13 +99,13 @@ theme: Butterfly
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
+  type: git   #部署类型
   repository:
-        gtihub: https://github.com/radium-bit/radium-bit.github.io
+        gtihub: https://github.com/radium-bit/radium-bit.github.io  #部署类型的网址
         #coding: git@git.coding.net:imdaniel/radium-bit.git
   branch: master
 
-#Medias (hexo-tag-mmedia插件设置)
+#Medias (hexo-tag-mmedia插件设置，一般无需修改)
 mmedia:
   aplayer:
     cdn: https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js
@@ -128,7 +128,7 @@ mmedia:
 ##b站追番设置
 bangumi:
   enable: true 
-  vmid: 445498147
+  vmid: 445498147  #你的b站yid
   title: '追番列表'
   quote: '生命不息，追番不止！'
   show: 1
