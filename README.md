@@ -4,7 +4,13 @@ Hexo博客，Butterfly主题版本的Hexo博客衍生版。由[Radium-bit](https
 
 【[开发文档](https://radium-bit.github.io/uncategorized/AboutPoint/)】
 
- 本版本V1.0（基于Butterfly于2020/5/30发布的版本）集成了
+ 本版本V1.1（基于Butterfly于2020/5/30发布的版本）集成了
+
+> 更新文章顶置工具，hexo-generator-indexed。
+
+更新日志：目前更新到V1.1版本。
+
+1.0版本
 
 > Live2D看板娘
 > 
@@ -13,5 +19,3 @@ Hexo博客，Butterfly主题版本的Hexo博客衍生版。由[Radium-bit](https
 > [Mmedias | 会飞的小弋](https://lovelijunyi.gitee.io/posts/743c.html#%E4%BD%BF%E7%94%A8%E6%8F%92%E4%BB%B6) (hexo-tag-mmedia集成插件，集成aplayer,dplayer和bilibili的播放插件)
 > 
 > 引用阿里巴巴矢量图库的部分图标（详见icons.css)
-
-更新日志：目前更新到V1.0版本。
