@@ -2,7 +2,7 @@
 
 ## Chinese 简中
 
-Hexo博客，Butterfly主题版本的Hexo博客衍生版。由[Radium-bit](https://radium-bit.tk/about)改编。具体效果可前往[Radium Stardust](https://radium-bit.tk)中观看。
+这是Hexo博客Butterfly主题版本的Hexo博客衍生版。由[Radium-bit](https://radium-bit.tk/about)改编。具体效果可前往[Radium Stardust](https://radium-bit.tk)中观看。
 
 【[开发文档](https://radium-bit.tk/uncategorized/AboutPoint/)】
 
