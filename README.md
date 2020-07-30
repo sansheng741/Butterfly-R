@@ -4,7 +4,7 @@
 
 Hexo博客，Butterfly主题版本的Hexo博客衍生版。由[Radium-bit](https://radium-bit.tk/about)改编。具体效果可前往[Radium Stardust](https://radium-bit.tk)中观看。
 
-【[开发文档](https://radium-bit.github.io/uncategorized/AboutPoint/)】
+【[开发文档](https://radium-bit.tk/uncategorized/AboutPoint/)】
 
  本版本V1.1（基于Butterfly于2020/5/30发布的版本）集成了
 
@@ -22,11 +22,11 @@ Hexo博客，Butterfly主题版本的Hexo博客衍生版。由[Radium-bit](https
 > 
 > 引用阿里巴巴矢量图库的部分图标（详见icons.css)
 
-
-
 ## English
 
 This is a Hexo blog theme,It's a derivative of butterfly. Adapted from [Radium-bit](https://radium-bit.tk/about).The effects can be seen in [Radium Stardust](https://radium-bit.tk).
+
+{ [Development documentation](https://radium-bit.tk/uncategorized/AboutPoint/) }
 
 Update log: This version 1.1 (Based on butterfly theme's version released on May 30, 2020)
 
