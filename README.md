@@ -24,13 +24,13 @@
 
 ## English
 
-This is a Hexo blog theme,It's a derivative of butterfly. Adapted from [Radium-bit](https://radium-bit.tk/about).The effects can be seen in [Radium Stardust](https://radium-bit.tk).
+This is a Hexo blog theme,It's a derivative of butterfly. Adapted from [Radium-bit](https://radium-bit.tk/about).The effects can be viewed in [Radium Stardust](https://radium-bit.tk).
 
 { [Development documentation](https://radium-bit.tk/uncategorized/AboutPoint/) }
 
-Update log: This version 1.1 (Based on butterfly theme's version released on May 30, 2020)
+Update log: This version 1.1 (Based on butterfly theme's version released on May 30, 2020)  integrated
 
-> Update article top tool,hexo-generator-indexed.
+> Update article top tool,*hexo-generator-indexed*.
 
 Version 1.0
 
