@@ -1,6 +1,6 @@
 # Butterfly-R
 
-## Chinese 简中
+## 简体中文
 
 这是Hexo博客Butterfly主题版本的Hexo博客衍生版。由[Radium-bit](https://radium-bit.tk/about)改编。具体效果可前往[Radium Stardust](https://radium-bit.tk)中观看。
 
