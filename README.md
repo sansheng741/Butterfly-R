@@ -30,7 +30,7 @@ This is a Hexo blog theme,It's a derivative of butterfly. Adapted from [Radium-b
 
 { [Development documentation](https://radium-bit.tk/uncategorized/AboutPoint/) }
 
-{[Download](https://radium-bit.lanzous.com/iFgwFf925qh)}
+{ [Download](https://radium-bit.lanzous.com/iFgwFf925qh) }
 
 Update log: This version 1.1 (Based on butterfly theme's version released on May 30, 2020)  integrated
 
