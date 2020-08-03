@@ -6,6 +6,8 @@
 
 【[开发文档](https://radium-bit.tk/uncategorized/AboutPoint/)】
 
+【[下载地址](https://radium-bit.lanzous.com/iFgwFf925qh)】
+
  本版本V1.1（基于Butterfly于2020/5/30发布的版本）集成了
 
 > 更新文章顶置工具，hexo-generator-indexed。
@@ -27,6 +29,8 @@
 This is a Hexo blog theme,It's a derivative of butterfly. Adapted from [Radium-bit](https://radium-bit.tk/about).The effects can be viewed in [Radium Stardust](https://radium-bit.tk).
 
 { [Development documentation](https://radium-bit.tk/uncategorized/AboutPoint/) }
+
+{[Download](https://radium-bit.lanzous.com/iFgwFf925qh)}
 
 Update log: This version 1.1 (Based on butterfly theme's version released on May 30, 2020)  integrated
 
