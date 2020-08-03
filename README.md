@@ -44,4 +44,4 @@ Version 1.0
 > 
 > [Mmedias](https://lovelijunyi.gitee.io/posts/743c.html#%E4%BD%BF%E7%94%A8%E6%8F%92%E4%BB%B6) (hexo-tag-mmedia addons, include aplayer,dplayer and Blilbili's Vedio player)
 > 
-> Used some victor diagram icons from Alibaba's Victor diagrams gallery (See in icons.css)
+> Used some victor diagram icons from Alibaba's Victor diagrams gallery (View in icons.css)
