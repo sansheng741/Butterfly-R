@@ -1,8 +1,12 @@
 # Butterfly-R
 
+
+
+
+
 ## 简体中文
 
-这是Hexo博客Butterfly主题版本的Hexo博客衍生版。由[Radium-bit](https://radium-bit.tk/about)改编。具体效果可前往[Radium Stardust](https://radium-bit.tk)中观看。
+这是Hexo博客Butterfly主题版本的Hexo博客衍生版。由[Radium-bit](https://www.radiumbit.tk/about)改编。具体效果可前往[Radium Stardust](https://www.radiumbit.tk)中观看。
 
 【[开发文档](https://radium-bit.tk/uncategorized/AboutPoint/)】
 
@@ -24,11 +28,13 @@
 > 
 > 引用阿里巴巴矢量图库的部分图标（详见icons.css)
 
+
+
 ## English
 
-This is a Hexo blog theme,It's a derivative of butterfly. Adapted from [Radium-bit](https://radium-bit.tk/about).The effects can be viewed in [Radium Stardust](https://radium-bit.tk).
+This is a Hexo blog theme,It's a derivative of butterfly. Adapted from [Radium-bit](https://www.radiumbit.tk/about).The effects can be viewed in [Radium Stardust](https://www.radiumbit.tk).
 
-{ [Development documentation](https://radium-bit.tk/uncategorized/AboutPoint/) }
+{ [Development documentation](https://www.radiumbit.tk/uncategorized/AboutPoint/) }
 
 { [Download](https://radium-bit.lanzous.com/iFgwFf925qh) }
 
