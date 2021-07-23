@@ -3,11 +3,59 @@ class:
   link_list:
     1:
       name: FLY_MC
-      link: https://www.flymc.top
+      link: https://www.flymc.cc
       avatar: https://cdn.jsdelivr.net/gh/Natsuki-Kaede/Blog-Resources/img/avatar.jpg
-      descr: 是我的朋友，也是火绒论坛中的自定规则包创作者&#44;也是个大佬
+      descr: Just Kaede!
     2:
       name: 186526
       link: https://186526.club
-      avatar: https://186526.club/images/avatar.jpg
+      avatar: https://cdn.jsdelivr.net/gh/186526/hexo-theme-lx/source/images/avatar.jpg
       descr: 在BiliBili上交换友链的朋友w~
+    3:
+      name: Tokisaki Galaxy
+      link: https://tokisakigalaxy.xyz
+      avatar: https://cdn.jsdelivr.net/gh/Tokisaki-Galaxy/res/site/medias/avatar.jpg
+      descr: （等待留言中...）
+    4:
+      name: Dmcimi
+      link: https://blog.dmcimi.top
+      avatar: https://cdn.jsdelivr.net/gh/dmcimi/Store@1.0/source/images/avatar.jpg
+      descr: 某🐟
+    5:
+      name: 会飞的小弋
+      link: https://lovelijunyi.gitee.io/
+      avatar: https://gitee.com/lovelijunyi/images/raw/master/20200404135847.jpg
+      descr: 喜欢大数据，嵌入式和机器视觉
+    6:
+      name: seeseeu
+      link: https://seeseeu.top
+      avatar: https://4m.cn/ff1yA
+      descr: 人生如水，越淡越真
+    7:
+      name: GamerNoTitle
+      link: https://bili33.top
+      avatar: https://cdn.jsdelivr.net/gh/GamerNoTitle/Picture-repo@1.0/AboutMe/logo-mini.png
+      descr: 一个在懵懂无知中成长的高中生程序员^V^
+    8:
+      name: Tianli
+      link: https://tianli-blog.club
+      avatar: https://tuchuang-1258604854.cos.ap-chengdu.myqcloud.com/logo.png
+      descr: 惟其不可能，所以才相信。
+    9:
+      name: 花星梦
+      link: http://www.flower-star-dream.tk
+      avatar: https://cdn.jsdelivr.net/gh/flower-star-dream/cdn/me/flower.jpg
+      descr: 这里是爱摸鱼的花海酱
+class2:
+  class_name: 好东西
+  link_list:
+    1:
+      name: 火绒论坛
+      link: http://bbs.huorong.cn
+      avatar: http://bbs.huorong.cn/template/turing_dz283/images/logo.png
+      descr: 火绒安全官方论坛，良心杀软。
+    2:
+      name: Hexo
+      link: https://hexo.io
+      descr: 众多blog类网站的框架
+      avatar: https://hexo.io/icon/apple-touch-icon-114x114.png

@@ -54,8 +54,8 @@ copy:
 social:
   iconfont icon-github: https://github.com/Radium-bit?tab=Overview || Github
   iconfont icon-bilibili-fill: https://space.bilibili.com/445498147 || B站
-  iconfont icon-twitter: https://twitter.com/Tairitsu_Axium || Twitter
-  iconfont icon-Fill: mailto:leo-nod@qq.com || Email
+  iconfont icon-twitter: https://twitter.com/Radium_bit || Twitter
+  iconfont icon-Fill: mailto:radium_official@163.com || Email
   iconfont icon-qq: tencent://message/?Menu=yes&amp;uin=1565982518&amp;Service=300&amp;sigT=45a1e5847943b64c6ff3990f8a9e644d2b31356cb0b4ac6b24663a3c8dd0f8aa12a595b1714f9d45 || QQ
   iconfont icon-netease-music: https://music.163.com/#/user/home?id=467388145 || 网易云音乐
   iconfont icon-zhihu: https://www.zhihu.com/people/leo-74-94 || 知乎
@@ -74,10 +74,10 @@ algolia_search:
     hits_stats: '${hits} results found in ${time} ms'
 
 # Local search
-# Please see doc for more details: https://butterfly.js.org/config.html#本地搜索  需要安装插件hexo-generator-search
+# Please see doc for more details: https://butterfly.js.org/config.html#本地搜索
 # ---------------
 local_search:
-  enable: true
+  enable: false
   labels:
     input_placeholder: Search for Posts
     hits_empty: "We didn't find any results for the search: ${query}" # if there are no result
@@ -121,12 +121,11 @@ avatar:
 # the banner image of index
 index_img:
 
-# if the banner of page not setting,it will show the top_img origin: https://cdn.jsdelivr.net/gh/radium-bit/res@latest/index_Dawn.webp
-#default_top_img: https://cdn.jsdelivr.net/gh/radium-bit/res@latest/Hikari.webp
-default_top_img: https://api.flymc.cc/cover.php
+# if the banner of page not setting,it will show the top_img
+default_top_img: https://cdn.jsdelivr.net/gh/radium-bit/res@latest/index_Dawn.webp
 
 # the banner image of archive page
-archive_img: https://cdn.jsdelivr.net/gh/radium-bit/res@latest/index_Dawn.webp
+archive_img: https://wx2.sbimg.cn/2020/08/27/6QNYY.jpg
 
 # the banner image of tag page
 # tag page, look like https://xxxxxxxxx.com/tags/butterfly
@@ -506,7 +505,7 @@ font:
 # 左上角網站名字 主頁居中網站名字
 blog_title_font:
   font_link: https://fonts.googleapis.com/css?family=Titillium+Web #字體鏈接
-  font-family: Titillium Web, PingFang SC, Hiragino Sans GB, "Comic Sans MS", "Microsoft YaHei", Helvetica Neue, Helvetica, Arial, sans-serif
+  font-family: Titillium Web, PingFang SC, Hiragino Sans GB, "Microsoft YaHei", Helvetica Neue, Helvetica, Arial, sans-serif
 
 # 水平分隔綫
 hr:
@@ -532,7 +531,7 @@ subtitle:
   # (如果有英文逗號' , '，請使用轉義字符 &#44;)
   # 如果關閉打字效果，subtitle只會顯示sub的第一行文字
   sub:
-    - Fracture Ray
+    - 友谊永存！
     - Our friend ship remain and never can end.
 
 # fontawesome圖標
@@ -715,7 +714,7 @@ inject:
   bottom:
     # - <script src="xxxx"></script>
     - <script src="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.js"></script>
-    - <script src="https://cdn.jsdelivr.net/gh/stevenjoezhang/live2d-widget@latest/autoload.js" async=""></script>
+    - <script src="https://cdn.jsdelivr.net/gh/radium-bit/res@latest/live2d/autoload.js"></script>
     - <script src="https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js"></script>
     - <script src="/js/Speaker.js"></script>
     #- <script src="/js/AntiSources.js"></script>

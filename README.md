@@ -1,9 +1,5 @@
 # Butterfly-R
 
-
-
-
-
 ## 简体中文
 
 这是Hexo博客Butterfly主题版本的Hexo博客衍生版。由[Radium-bit](https://www.radiumbit.tk/about)改编。具体效果可前往[Radium Stardust](https://www.radiumbit.tk)中观看。
@@ -27,8 +23,8 @@
 > [Mmedias | 会飞的小弋](https://lovelijunyi.gitee.io/posts/743c.html#%E4%BD%BF%E7%94%A8%E6%8F%92%E4%BB%B6) (hexo-tag-mmedia集成插件，集成aplayer,dplayer和bilibili的播放插件)
 > 
 > 引用阿里巴巴矢量图库的部分图标（详见icons.css)
-
-
+> 
+> 引用 FLY_MC的图片API  https://api.flymc.cc/cover.php
 
 ## English
 
@@ -51,3 +47,5 @@ Version 1.0
 > [Mmedias](https://lovelijunyi.gitee.io/posts/743c.html#%E4%BD%BF%E7%94%A8%E6%8F%92%E4%BB%B6) (hexo-tag-mmedia addons, include aplayer,dplayer and Blilbili's Vedio player)
 > 
 > Used some victor diagram icons from Alibaba's Victor diagrams gallery (View in icons.css)
+> 
+> Reference FLY_MC's picture API https://api.flymc.cc/cover.php

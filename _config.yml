@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Radium·Stardust
-subtitle: ''
+title: Radiumの小站
+subtitle: 'Just Sayori!'
 description: ''
 keywords:
 author: Radium-bit
@@ -14,7 +14,7 @@ email: radium_official@163.com
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://radium-bit.gtihub.io
+url: https://radiumbit.tk
 root: /
 permalink: :category/:title/
 permalink_defaults:
@@ -63,7 +63,7 @@ index_generator:
   order_by: -date
 
 # Category & Tag
-default_category: uncategorized
+default_category: page
 category_map:
 tag_map:
 
@@ -101,8 +101,8 @@ theme: Butterfly
 deploy:
   type: git
   repository:
-        gtihub: https://github.com/radium-bit/radium-bit.github.io
-        #coding: git@git.coding.net:imdaniel/radium-bit.git
+        gtihub: git@github.com:radium-bit/radium-bit.github.io
+        #coding: git@git.coding.net:radium-bit/radium-bit.git
   branch: master
 
 #Medias (hexo-tag-mmedia插件设置)
@@ -126,6 +126,8 @@ mmedia:
     default:
 
 ##b站追番设置
+##请在Hexo g之前用 hexo bangumi -u 手动更新列表
+##组件更新命令: npm install hexo-bilibili-bangumi --update --save
 bangumi:
   enable: true 
   vmid: 445498147
@@ -133,3 +135,10 @@ bangumi:
   quote: '生命不息，追番不止！'
   show: 1
   loading: '/img/bangumi-loading.gif'
+
+##搜索插件相关 hexo-generator-search 本地搜索
+search:
+  path: search.xml
+  field: all
+  content: true
+#  template: 
