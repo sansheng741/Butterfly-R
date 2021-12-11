@@ -6,7 +6,7 @@
 
 【[开发文档](https://radium-bit.github.io/page/AboutPoint/)】
 
-【[下载地址](https://radium-bit.lanzous.com/iFgwFf925qh)】
+【[下载地址](https://github.com/Radium-bit/Butterfly-R/releases)】
 
  本版本V1.1（基于Butterfly于2020/5/30发布的版本）集成了
 
@@ -32,7 +32,7 @@
 
 【[開發文檔](https://radium-bit.github.io/page/AboutPoint/)】
 
-【[下載地址](https://radium-bit.lanzous.com/iFgwFf925qh)】
+【[下載地址](https://github.com/Radium-bit/Butterfly-R/releases)】
 
  本版本V1.1（基於Butterfly於2020/5/30發布的版本）集成了
 
@@ -58,7 +58,7 @@ This is a Hexo blog theme,It's a derivative of butterfly. Adapted from [Radium-b
 
 { [Development documentation](https://radium-bit.github.io/page/AboutPoint/) }
 
-{ [Download](https://radium-bit.lanzous.com/iFgwFf925qh) }
+{[Releases Download]( https://github.com/Radium-bit/Butterfly-R/releases) }
 
 Update log: This version 1.1 (Based on butterfly theme's version released on May 30, 2020)  integrated
 
